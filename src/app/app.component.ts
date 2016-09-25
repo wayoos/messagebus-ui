@@ -10,24 +10,24 @@ export class AppComponent {
 
   views: Object[] = [
     {
-      name: "My account",
-      description: "Edit my account information",
-      icon: "assignment ind"
+      name: 'My account',
+      description: 'Edit my account information',
+      icon: 'assignment ind'
     },
     {
-      name: "Potential dates",
-      description: "Find your ",
-      icon: "pets"
+      name: 'Potential dates',
+      description: 'Find your ',
+      icon: 'pets'
     }
   ];
 
   dogs: Object[] = [
-    {name: "Porter"},
-    {name: "Mal"},
-    {name: "Razzle"},
-    {name: "Koby"},
-    {name: "Molly"},
-    {name: "Husi"}
+    {name: 'Porter'},
+    {name: 'Mal'},
+    {name: 'Razzle'},
+    {name: 'Koby'},
+    {name: 'Molly'},
+    {name: 'Husi'}
   ];
 
 }
