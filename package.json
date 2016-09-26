@@ -4,7 +4,7 @@
   "description": "MessageBus UI",
   "author": "Stephane Cusin <stephane.cusin@wayoos.com>",
   "homepage": "https://github.com/wayoos/messagebus-ui",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "scripts": {
     "build:dev": "webpack --config config/webpack.dev.js --progress --profile",
     "build:docker": "npm run build:prod && docker build -t angular2-webpack-start:latest .",
